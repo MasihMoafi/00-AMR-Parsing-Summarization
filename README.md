@@ -3,7 +3,7 @@
 ## Project Overview
 - **Goal**: Parse and summarize AMR graphs.
 - **Tools**: Python, Jupyter Notebook, etc.
-- **Dataset**: [Link to dataset if available]
+- **Dataset**: Custom
 
 ## How to Use
 1. Clone this repository.
