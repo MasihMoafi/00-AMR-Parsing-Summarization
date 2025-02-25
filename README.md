@@ -12,7 +12,7 @@ This project implements a pipeline for abstractive text summarization that inclu
 - **Semantic Graph Parsing:** Extracts AMR graphs from input sentences.
 - **Graph Construction & Transformation:** Combines and linearizes sentence-level graphs into a unified representation.
 - **Deep Learning Prediction:** Generates summaries using models such as an attentive seq2seq with pointer-generator and transformer-based architectures.
-- 
+  
 ## Note
 This codebase is an independent implementation inspired by the paper mentioned above. It is not the original work of the paper's authors.
 
